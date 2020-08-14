@@ -41,6 +41,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "OpenCover": {
+              "target": "Package",
+              "version": "[4.7.922, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -56,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -118,6 +124,10 @@
               "target": "Package",
               "version": "[3.12.0, )"
             },
+            "OpenCover": {
+              "target": "Package",
+              "version": "[4.7.922, )"
+            },
             "coverlet.collector": {
               "target": "Package",
               "version": "[1.0.1, )"
@@ -138,7 +148,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

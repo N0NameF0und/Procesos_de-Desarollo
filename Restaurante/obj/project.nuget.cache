@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QFdRlrqcGsTGYKP95ZkJaxuyasZrFyiB9l//QjjdLrQR78bU+Az07pxI1/9H5m58igq+QT1mQTHDlD027Ok/dQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kamz\\source\\repos\\Procesos\\Restaurante\\Restaurante.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kamz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kamz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
