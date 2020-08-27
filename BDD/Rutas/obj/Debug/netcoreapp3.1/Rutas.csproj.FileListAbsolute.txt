@@ -1,0 +1,9 @@
+C:\Users\Kamz\source\repos\BDD\Rutas\bin\Debug\netcoreapp3.1\Rutas.deps.json
+C:\Users\Kamz\source\repos\BDD\Rutas\bin\Debug\netcoreapp3.1\Rutas.dll
+C:\Users\Kamz\source\repos\BDD\Rutas\bin\Debug\netcoreapp3.1\Rutas.pdb
+C:\Users\Kamz\source\repos\BDD\Rutas\obj\Debug\netcoreapp3.1\Rutas.csprojAssemblyReference.cache
+C:\Users\Kamz\source\repos\BDD\Rutas\obj\Debug\netcoreapp3.1\Rutas.AssemblyInfoInputs.cache
+C:\Users\Kamz\source\repos\BDD\Rutas\obj\Debug\netcoreapp3.1\Rutas.AssemblyInfo.cs
+C:\Users\Kamz\source\repos\BDD\Rutas\obj\Debug\netcoreapp3.1\Rutas.csproj.CoreCompileInputs.cache
+C:\Users\Kamz\source\repos\BDD\Rutas\obj\Debug\netcoreapp3.1\Rutas.dll
+C:\Users\Kamz\source\repos\BDD\Rutas\obj\Debug\netcoreapp3.1\Rutas.pdb

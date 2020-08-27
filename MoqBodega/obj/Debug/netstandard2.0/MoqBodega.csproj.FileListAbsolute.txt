@@ -1,0 +1,9 @@
+C:\Users\Kamz\source\repos\MoqBodega\bin\Debug\netstandard2.0\MoqBodega.deps.json
+C:\Users\Kamz\source\repos\MoqBodega\bin\Debug\netstandard2.0\MoqBodega.dll
+C:\Users\Kamz\source\repos\MoqBodega\bin\Debug\netstandard2.0\MoqBodega.pdb
+C:\Users\Kamz\source\repos\MoqBodega\obj\Debug\netstandard2.0\MoqBodega.csprojAssemblyReference.cache
+C:\Users\Kamz\source\repos\MoqBodega\obj\Debug\netstandard2.0\MoqBodega.AssemblyInfoInputs.cache
+C:\Users\Kamz\source\repos\MoqBodega\obj\Debug\netstandard2.0\MoqBodega.AssemblyInfo.cs
+C:\Users\Kamz\source\repos\MoqBodega\obj\Debug\netstandard2.0\MoqBodega.dll
+C:\Users\Kamz\source\repos\MoqBodega\obj\Debug\netstandard2.0\MoqBodega.pdb
+C:\Users\Kamz\source\repos\MoqBodega\obj\Debug\netstandard2.0\MoqBodega.csproj.CoreCompileInputs.cache

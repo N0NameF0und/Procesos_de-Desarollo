@@ -225,6 +225,47 @@ namespace Informatica.Negocio.Test
 
     }
 
+    [TestMethod]
+    public void OrdenamientoQuick()
+    {
+
+        //Variables de pruebas
+
+        var nombre = "Camila";
+        var apellido = "Morales";
+        var persona1 = new Persona(nombre, apellido);
+
+        nombre = "Juan";
+        apellido = "Lopez";
+        var persona2 = new Persona(nombre, apellido);
+
+        nombre = "Lucia";
+        apellido = "Armijos";
+        var persona3 = new Persona(nombre, apellido);
+
+
+
+        //Variables resultado
+
+        var primerApellidoEsperado = "Armijos";
+        var segundoApellidoEsperado = "Lopez";
+        var tercerApellidoEsperado = "Morales";
+
+
+        //Procesamiento       
+        Ordenamiento ordenamiento = new Ordenamiento();
+        List<Persona> esperados = ordenamiento.Ordenar(persona1, persona2, persona3);
+
+
+        //Test
+
+        Assert.AreEqual(primerApellidoEsperado, esperados[0].Apellido);
+        Assert.AreEqual(segundoApellidoEsperado, esperados[1].Apellido);
+        Assert.AreEqual(tercerApellidoEsperado, esperados[2].Apellido);
+
+
+    }
+
 
 }
 

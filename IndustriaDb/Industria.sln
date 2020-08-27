@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Industria.Test", "..\Industria.Test\Industria.Test.csproj", "{69278D08-5F4C-43CB-93EB-C1730E7D0FD5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Industria", "..\Industria\Industria.csproj", "{2F725E3C-ED74-44FD-A2B4-194DA9C48908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69278D08-5F4C-43CB-93EB-C1730E7D0FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69278D08-5F4C-43CB-93EB-C1730E7D0FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69278D08-5F4C-43CB-93EB-C1730E7D0FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69278D08-5F4C-43CB-93EB-C1730E7D0FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F725E3C-ED74-44FD-A2B4-194DA9C48908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F725E3C-ED74-44FD-A2B4-194DA9C48908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F725E3C-ED74-44FD-A2B4-194DA9C48908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F725E3C-ED74-44FD-A2B4-194DA9C48908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10B73530-7C4E-4308-A1D5-D26D1D074479}
+	EndGlobalSection
+EndGlobal

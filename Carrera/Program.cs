@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 using System.Security.Cryptography;
-using System.Threading;
+using System.Threading; 
 
 namespace Carrera
 {
@@ -37,14 +37,17 @@ namespace Carrera
                 counter++;
                 jugador.Name = String.Format("Jugador [{0}]", counter);
                 Console.WriteLine("Inicio", jugador.Name);
-                Thread.Sleep(1);
+                Thread.Sleep(0);
             }
 
+            
+            counter++;
+
             // ?? 
-           // participantes[0].Interrupt();
+            // participantes[0].Interrupt();
 
             // ??
-          //      participantes[1].Abort();
+            //      participantes[1].Abort();
 
             foreach (Thread jugador in participantes)
             {
@@ -62,10 +65,13 @@ namespace Carrera
         
                 while (total != 60)
                 {
+                    string caminoDescripcion;
                     var total_inicio = total;
                     total += pasos;
                     string ruta = new string('-', (total - total_inicio));
-                    Console.WriteLine( ruta,
+                    caminoDescripcion = String.Concat(ruta);
+
+                Console.WriteLine( caminoDescripcion,
                         Thread.CurrentThread.Name);
                     Thread.Sleep(1);
 

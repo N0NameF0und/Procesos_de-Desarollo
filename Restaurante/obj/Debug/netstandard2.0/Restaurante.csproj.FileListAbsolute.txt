@@ -1,0 +1,4 @@
+C:\Users\Kamz\source\repos\Procesos\Restaurante\obj\Debug\netstandard2.0\Restaurante.csprojAssemblyReference.cache
+C:\Users\Kamz\source\repos\Procesos\Restaurante\obj\Debug\netstandard2.0\Restaurante.AssemblyInfoInputs.cache
+C:\Users\Kamz\source\repos\Procesos\Restaurante\obj\Debug\netstandard2.0\Restaurante.AssemblyInfo.cs
+C:\Users\Kamz\source\repos\Procesos\Restaurante\obj\Debug\netstandard2.0\Restaurante.csproj.CoreCompileInputs.cache

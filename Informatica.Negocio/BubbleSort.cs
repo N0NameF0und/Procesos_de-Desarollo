@@ -1,31 +1,50 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace Informatica.Negocio
 {
-    class BubbleSort
+    public class BubbleSort
     {
 
-        static void Main(string[] args)
+        public string Bubble(Object objeto)
         {
-            // input array
-            float[] entrada = { 1, 5, 3, 2, 4 };
+            
+            //obtiene el typo
+            var entradaTipo = objeto.GetType().ToString();
+            
+            //Valores aceptados
+            string[] aceptados = {
+                "System.Double[]" ,
+                "System.Single[]",
+                "System.Int32",
+                "System.Double"
+            };
 
-            // ejecuta metodo
-            float[] resutado = Sort(entrada);
+            //Error en caso de no ser aceptado
+            string error = "Tipo no aceptado";
 
 
-            // imprime valores
-            for (int i = 0; i < entrada.Length; i++)
-                Console.Write(entrada[i] + " ");
+            if ( aceptados.Contains(entradaTipo))
+            {
+                double[] desordenado = (double[])objeto;
+                var resultado = Sort(desordenado); 
+                return resultado;
+            }
+            
 
-            // pausa en pantalla
-            Console.ReadLine();
+            return error;
         }
+    
 
-        //metodo de ordenacion burbuja
-        private static float[] Sort(float[] entrada)
+
+
+
+    //metodo de ordenacion burbuja
+    private static Array Sort<T>(T[] entrada)
+        where T : IComparable<T>
         {
             //fors anidados
             for (int i = 0; i < entrada.Length; i++)
@@ -33,10 +52,10 @@ namespace Informatica.Negocio
                 for (int j = 0; j < entrada.Length - 1; j++)
                 {
                     //si el de la izquierda es mayor intercambia
-                    if (entrada[j] > entrada[j + 1])
+                    if (entrada[j].CompareTo(entrada[j + 1]) > 0)
                     {
                         //intercambia
-                        float temp = entrada[j + 1];
+                        var temp = entrada[j + 1];
                         entrada[j + 1] = entrada[j];
                         entrada[j] = temp;
                     }
@@ -46,5 +65,8 @@ namespace Informatica.Negocio
             // devuelve arreglo ordenado
             return entrada;
         }
+        
+
+
     }
 }

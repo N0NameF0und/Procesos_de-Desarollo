@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jopEnNXFudQ4aL3T5pX8fKLZpVZ/G++m1LoMf3bnxXjg3vuNGzASqWSbon5l3nPjE9tP1g3ziTMqYeXe1KGT8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kamz\\source\\repos\\Procesos\\TestDataDriven\\Cambio\\Cambio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kamz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kamz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

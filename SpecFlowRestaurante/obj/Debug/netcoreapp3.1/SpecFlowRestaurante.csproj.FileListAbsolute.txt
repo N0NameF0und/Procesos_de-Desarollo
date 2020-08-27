@@ -1,0 +1,4 @@
+C:\Users\Kamz\source\repos\Procesos\SpecFlowRestaurante\obj\Debug\netcoreapp3.1\SpecFlowRestaurante.csprojAssemblyReference.cache
+C:\Users\Kamz\source\repos\Procesos\SpecFlowRestaurante\obj\Debug\netcoreapp3.1\SpecFlowRestaurante.AssemblyInfoInputs.cache
+C:\Users\Kamz\source\repos\Procesos\SpecFlowRestaurante\obj\Debug\netcoreapp3.1\SpecFlowRestaurante.AssemblyInfo.cs
+C:\Users\Kamz\source\repos\Procesos\SpecFlowRestaurante\obj\Debug\netcoreapp3.1\SpecFlowRestaurante.csproj.CoreCompileInputs.cache

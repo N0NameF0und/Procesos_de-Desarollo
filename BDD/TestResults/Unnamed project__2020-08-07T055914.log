@@ -1,0 +1,311 @@
+﻿2020-08-07T05:59:14.4936484-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-08-07T05:59:14.4939495-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.3.41 in Framework netcore31 in x64 mode execution started
+2020-08-07T05:59:14.4939565-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-08-07T05:59:14.4966937-05:00;VSTestExecutionThread;Info;Current UserName: 'Kamz', MachineName: 'LAPTOP-4PKH2ABB'
+2020-08-07T05:59:14.5520508-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1\RutasSpecFlow.dll
+2020-08-07T05:59:14.5524396-05:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Kamz\source\repos\BDD\TestResults" (default)
+2020-08-07T05:59:14.5525197-05:00;VSTestExecutionThread;Info;Profile: 
+2020-08-07T05:59:14.6493948-05:00;VSTestExecutionThread;Info;Log file path: C:\Users\Kamz\source\repos\BDD\TestResults\Unnamed project__2020-08-07T055914.log
+2020-08-07T05:59:14.6590171-05:00;Thread#12;Info;Checking activation
+2020-08-07T05:59:14.8293526-05:00;Thread#12;Info;Activated.
+2020-08-07T05:59:14.8296750-05:00;Thread#12;Info;Activation check completed
+2020-08-07T05:59:14.8297717-05:00;Thread#12;Info;Starting test run
+2020-08-07T05:59:14.9369695-05:00;Thread#12;Info;Discovering target: Default
+2020-08-07T05:59:14.9371768-05:00;Thread#12;Info;Discovering tests from assembly: C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1\RutasSpecFlow.dll
+2020-08-07T05:59:15.0643817-05:00;Thread#12;Info;Discovered tests from assembly: C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1\RutasSpecFlow.dll
+2020-08-07T05:59:15.0666267-05:00:Test Suite Dump
+2020-08-07T05:59:15.0708720-05:00:#0: Unnamed project/ - 
+2020-08-07T05:59:15.0709250-05:00:#1: Default - 
+2020-08-07T05:59:15.0709293-05:00:#2: RutasSpecFlow - 
+2020-08-07T05:59:15.0709330-05:00:#3: Ruta - 
+2020-08-07T05:59:15.0736276-05:00:#4: Manejo directo - TestAssembly:RutasSpecFlow/Feature:Ruta/Scenario:Manejo+directo
+2020-08-07T05:59:15.0737434-05:00:#5: Manejo con varios puntos - TestAssembly:RutasSpecFlow/Feature:Ruta/Scenario:Manejo+con+varios+puntos
+2020-08-07T05:59:15.0738661-05:00:End: Test Suite Dump
+2020-08-07T05:59:15.1011984-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-07T05:59:15.1036167-05:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-08-07T05:59:15.1037051-05:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-08-07T05:59:15.1080590-05:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-07T05:59:15.1080784-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-08-07T05:59:15.1080810-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-08-07T05:59:15.1080856-05:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-08-07T05:59:15.1090499-05:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-08-07T05:59:15.1113916-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-08-07T05:59:15.1148733-05:00:Thread #0: creating new test thread executor for RutasSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-08-07T05:59:15.1187207-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-08-07T05:59:15.1190402-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-08-07T05:59:15.1552855-05:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2020-08-07T05:59:15.1579879-05:00:starting Out Of Process Executor
+2020-08-07T05:59:15.2034090-05:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-07T05:59:15.2072056-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2020-08-07T05:59:15.2072317-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2020-08-07T05:59:15.2091310-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1'
+2020-08-07T05:59:15.2096784-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2020-08-07T05:59:15.2098674-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2020-08-07T05:59:15.2099402-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1'
+2020-08-07T05:59:15.2212714-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-07T05:59:15.2212906-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Validation.dll'
+2020-08-07T05:59:15.2213854-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Validation.exe'
+2020-08-07T05:59:15.2214451-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-07T05:59:15.2216601-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-07T05:59:15.2216677-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Validation.dll'
+2020-08-07T05:59:15.2217390-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Validation.exe'
+2020-08-07T05:59:15.2217941-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-07T05:59:15.2219686-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-07T05:59:15.2219760-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Validation.dll'
+2020-08-07T05:59:15.2220462-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Validation.exe'
+2020-08-07T05:59:15.2221005-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-07T05:59:15.2255336-05:00:Starting callback TCP Rpc server
+2020-08-07T05:59:15.2501661-05:00:Asynchronously starting background TCP Rpc Server on port 32768
+2020-08-07T05:59:15.2502172-05:00:Started callback TCP Rpc server on port 32768
+2020-08-07T05:59:15.2502196-05:00:Starting logger TCP Rpc server
+2020-08-07T05:59:15.2527323-05:00:Asynchronously starting background TCP Rpc Server on port 32769
+2020-08-07T05:59:15.2527604-05:00:Started logger TCP Rpc server on port 32769
+2020-08-07T05:59:15.4871810-05:00:Executing test executor at 'dotnet' 'exec "C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 19356 --uniqueId "2020-08-07T055914" --outputFolder "C:\Users\Kamz\source\repos\BDD\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1'
+2020-08-07T05:59:15.4985136-05:00:Executor with PID 9744 has been started successfully.
+2020-08-07T05:59:15.5018554-05:00:Out of Process Executor 9744 started
+2020-08-07T05:59:15.5018842-05:00:Waiting for endpoint
+2020-08-07T05:59:16.1484140-05:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es-MX, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-07T05:59:16.1485473-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2020-08-07T05:59:16.1485549-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2020-08-07T05:59:16.1485696-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1'
+2020-08-07T05:59:16.1485740-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2020-08-07T05:59:16.1487151-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2020-08-07T05:59:16.1488056-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1'
+2020-08-07T05:59:16.1507279-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-07T05:59:16.1507632-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-07T05:59:16.1508908-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-07T05:59:16.1509871-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-07T05:59:16.1513213-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-07T05:59:16.1513348-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-07T05:59:16.1514410-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-07T05:59:16.1515353-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-07T05:59:16.1518676-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-07T05:59:16.1518813-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-07T05:59:16.1519863-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-07T05:59:16.1520758-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-07T05:59:16.1536578-05:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-07T05:59:16.1555413-05:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-07T05:59:16.1555664-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2020-08-07T05:59:16.1555711-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2020-08-07T05:59:16.1556079-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1'
+2020-08-07T05:59:16.1556117-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2020-08-07T05:59:16.1557169-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2020-08-07T05:59:16.1558633-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1'
+2020-08-07T05:59:16.1573632-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-07T05:59:16.1573921-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Threading.dll'
+2020-08-07T05:59:16.1575132-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Threading.exe'
+2020-08-07T05:59:16.1576076-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-07T05:59:16.1579141-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-07T05:59:16.1579275-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Threading.dll'
+2020-08-07T05:59:16.1580334-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Threading.exe'
+2020-08-07T05:59:16.1581276-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-07T05:59:16.1584245-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-07T05:59:16.1584532-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Threading.dll'
+2020-08-07T05:59:16.1585572-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Threading.exe'
+2020-08-07T05:59:16.1586578-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-07T05:59:16.5614341-05:00:Remote executor port received: 32770
+2020-08-07T05:59:16.5623522-05:00:Creating executor TCP client on port 32770
+2020-08-07T05:59:16.5634552-05:00:Created executor TCP client on port 32770
+2020-08-07T05:59:16.5634722-05:00:Connecting to remote executor TCP server
+2020-08-07T05:59:16.5654815-05:00:Connected remote executor TCP server
+2020-08-07T05:59:16.5658204-05:00:trying to connect to Out of Process Executor the 1 attempt
+2020-08-07T05:59:16.5658346-05:00:Connection to Out of Process Executor established in the 1 attempt
+2020-08-07T05:59:16.7946573-05:00:2020-08-07T05:59:16.7912123-05:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1\RutasSpecFlow.dll on test thread #0
+2020-08-07T05:59:16.8055023-05:00:Endpoint 9744 started
+2020-08-07T05:59:16.8592417-05:00:2020-08-07T05:59:16.8584726-05:00:OutOfProcessTestAssemblyExecutor: running tests...
+2020-08-07T05:59:17.1082634-05:00:2020-08-07T05:59:17.1075258-05:00:Assembly resolving TechTalk.SpecFlow, Version=3.3.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-08-07T05:59:17.1169000-05:00:2020-08-07T05:59:17.1160483-05:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2020-08-07T05:59:17.1210478-05:00:2020-08-07T05:59:17.1204916-05:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\Kamz\.nuget\packages\specflow\3.3.30\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2020-08-07T05:59:17.3259666-05:00:2020-08-07T05:59:17.3253708-05:00:Thread#0:T:-> Loading plugin C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-08-07T05:59:17.3294014-05:00:2020-08-07T05:59:17.3288137-05:00:Assembly resolving TechTalk.SpecFlow, Version=3.3.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-08-07T05:59:17.3361015-05:00:2020-08-07T05:59:17.3355258-05:00:Thread#0:T:-> Using default config
+2020-08-07T05:59:17.3532652-05:00:2020-08-07T05:59:17.3522177-05:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2020-08-07T05:59:17.3539543-05:00:2020-08-07T05:59:17.3536106-05:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2020-08-07T05:59:17.3564078-05:00:2020-08-07T05:59:17.3558968-05:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\Kamz\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2020-08-07T05:59:17.3593906-05:00:2020-08-07T05:59:17.3589008-05:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2020-08-07T05:59:17.3601169-05:00:2020-08-07T05:59:17.3597179-05:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2020-08-07T05:59:17.3613838-05:00:2020-08-07T05:59:17.3607838-05:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\Kamz\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2020-08-07T05:59:17.3749562-05:00:2020-08-07T05:59:17.3742599-05:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-07T05:59:17.3756182-05:00:2020-08-07T05:59:17.3753053-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2020-08-07T05:59:17.3769335-05:00:2020-08-07T05:59:17.3763543-05:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\Kamz\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2020-08-07T05:59:17.4181451-05:00:2020-08-07T05:59:17.4174386-05:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2020-08-07T05:59:17.4189449-05:00:2020-08-07T05:59:17.4186186-05:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2020-08-07T05:59:17.4201259-05:00:2020-08-07T05:59:17.4198078-05:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\Kamz\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2020-08-07T05:59:17.7046786-05:00:Thread#0: Test #4/0 is started on thread #0
+2020-08-07T05:59:17.7152669-05:00:2020-08-07T05:59:17.7134592-05:00:Assembly resolving Gherkin, Version=6.0.0.0, Culture=neutral, PublicKeyToken=86496cfa5b4a5851
+2020-08-07T05:59:17.7160108-05:00:2020-08-07T05:59:17.7156456-05:00:[AssemblyCache] Trying to resolve 'Gherkin' from .deps.json file
+2020-08-07T05:59:17.7168212-05:00:2020-08-07T05:59:17.7164631-05:00:[AssemblyCache] Resolved 'Gherkin' to 'C:\Users\Kamz\.nuget\packages\gherkin\6.0.0\lib\netstandard2.0\Gherkin.dll'
+2020-08-07T05:59:17.8249140-05:00:2020-08-07T05:59:17.8243969-05:00:Thread#0:B:Dado que se recorro a una velocidad media de 15 KM/HORA
+2020-08-07T05:59:17.8719094-05:00:2020-08-07T05:59:17.8713706-05:00:Assembly resolving Rutas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-08-07T05:59:17.8732239-05:00:2020-08-07T05:59:17.8722164-05:00:[AssemblyCache] Trying to resolve 'Rutas' from .deps.json file
+2020-08-07T05:59:17.8756161-05:00:2020-08-07T05:59:17.8752006-05:00:[DependencyContextAssemblyCache.ResolveManagedAssembly] Resolving 'Rutas', found in dependency map, but unable to resolve a path in ['Rutas.dll']
+2020-08-07T05:59:17.8763803-05:00:2020-08-07T05:59:17.8759893-05:00:[AssemblyCache] Could not resolve 'Rutas' from .deps.json
+2020-08-07T05:59:17.8809740-05:00:2020-08-07T05:59:17.8804399-05:00:[AssemblyCache] Trying to resolve 'Rutas' in folder 'C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1'
+2020-08-07T05:59:17.8886793-05:00:2020-08-07T05:59:17.8881153-05:00:[AssemblyCache] Trying to resolve 'Rutas' to 'C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1\Rutas.dll'
+2020-08-07T05:59:17.8896119-05:00:2020-08-07T05:59:17.8892722-05:00:[AssemblyCache] Found file 'C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1\Rutas.dll' for assembly 'Rutas'
+2020-08-07T05:59:17.8920917-05:00:2020-08-07T05:59:17.8914233-05:00:[AssemblyCache] Resolved 'Rutas' to C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1\Rutas.dll
+2020-08-07T05:59:17.9024121-05:00:2020-08-07T05:59:17.9018150-05:00:Thread#0:T:done: RutaSteps.DadoQueSeRecorroAUnaVelocidadMediaDeKMHORA(15) (0,0s)
+2020-08-07T05:59:17.9121302-05:00:2020-08-07T05:59:17.9114542-05:00:Thread#0:B:Y existe una distancia media entre puntos de 25 KM
+2020-08-07T05:59:17.9166845-05:00:2020-08-07T05:59:17.9162533-05:00:Thread#0:T:done: RutaSteps.DadoExisteUnaDistanciaMediaEntrePuntosDeKM(25) (0,0s)
+2020-08-07T05:59:17.9178564-05:00:2020-08-07T05:59:17.9174801-05:00:Thread#0:B:Entonces mi tiempo seria de 1.66 HORAS
+2020-08-07T05:59:17.9219819-05:00:2020-08-07T05:59:17.9215355-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'RutasSpecFlow:RutaCiclopaseo.Steps.RutaSteps.EntoncesMiTiempoSeriaDeHORAS(Int32, Int32)' should have 1 parameters
+2020-08-07T05:59:18.0012753-05:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2020-08-07T05:59:18.0048160-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-07T05:59:18.0049249-05:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2020-08-07T05:59:18.0049362-05:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-08-07T05:59:18.0050425-05:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-07T05:59:18.0050563-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-08-07T05:59:18.0050604-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-08-07T05:59:18.0050649-05:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-08-07T05:59:18.0051268-05:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-08-07T05:59:18.0051944-05:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2020-08-07T05:59:18.1177123-05:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 0,4110793 seconds
+2020-08-07T05:59:18.1229135-05:00:Thread#0: Test #4/1 is started on thread #0
+2020-08-07T05:59:18.1244550-05:00:2020-08-07T05:59:18.1240217-05:00:Thread#0:B:Dado que se recorro a una velocidad media de 15 KM/HORA
+2020-08-07T05:59:18.1316263-05:00:2020-08-07T05:59:18.1311008-05:00:Thread#0:T:done: RutaSteps.DadoQueSeRecorroAUnaVelocidadMediaDeKMHORA(15) (0,0s)
+2020-08-07T05:59:18.1324775-05:00:2020-08-07T05:59:18.1320852-05:00:Thread#0:B:Y existe una distancia media entre puntos de 25 KM
+2020-08-07T05:59:18.1391370-05:00:2020-08-07T05:59:18.1386020-05:00:Thread#0:T:done: RutaSteps.DadoExisteUnaDistanciaMediaEntrePuntosDeKM(25) (0,0s)
+2020-08-07T05:59:18.1399648-05:00:2020-08-07T05:59:18.1396043-05:00:Thread#0:B:Entonces mi tiempo seria de 1.66 HORAS
+2020-08-07T05:59:18.1410000-05:00:2020-08-07T05:59:18.1406129-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'RutasSpecFlow:RutaCiclopaseo.Steps.RutaSteps.EntoncesMiTiempoSeriaDeHORAS(Int32, Int32)' should have 1 parameters
+2020-08-07T05:59:18.1456827-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-07T05:59:18.1457400-05:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2020-08-07T05:59:18.1457462-05:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-08-07T05:59:18.1458028-05:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-07T05:59:18.1458088-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-08-07T05:59:18.1458131-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-08-07T05:59:18.1458175-05:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-08-07T05:59:18.1458396-05:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-08-07T05:59:18.1458730-05:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2020-08-07T05:59:18.1493224-05:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 0,0263013 seconds
+2020-08-07T05:59:18.1501358-05:00:Thread#0: Test #4/2 is started on thread #0
+2020-08-07T05:59:18.1510943-05:00:2020-08-07T05:59:18.1507215-05:00:Thread#0:B:Dado que se recorro a una velocidad media de 15 KM/HORA
+2020-08-07T05:59:18.1554690-05:00:2020-08-07T05:59:18.1549905-05:00:Thread#0:T:done: RutaSteps.DadoQueSeRecorroAUnaVelocidadMediaDeKMHORA(15) (0,0s)
+2020-08-07T05:59:18.1561607-05:00:2020-08-07T05:59:18.1558464-05:00:Thread#0:B:Y existe una distancia media entre puntos de 25 KM
+2020-08-07T05:59:18.1660522-05:00:2020-08-07T05:59:18.1655590-05:00:Thread#0:T:done: RutaSteps.DadoExisteUnaDistanciaMediaEntrePuntosDeKM(25) (0,0s)
+2020-08-07T05:59:18.1668517-05:00:2020-08-07T05:59:18.1664891-05:00:Thread#0:B:Entonces mi tiempo seria de 1.66 HORAS
+2020-08-07T05:59:18.1677254-05:00:2020-08-07T05:59:18.1673822-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'RutasSpecFlow:RutaCiclopaseo.Steps.RutaSteps.EntoncesMiTiempoSeriaDeHORAS(Int32, Int32)' should have 1 parameters
+2020-08-07T05:59:18.1737912-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-07T05:59:18.1738179-05:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2020-08-07T05:59:18.1738220-05:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2020-08-07T05:59:18.1738686-05:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-07T05:59:18.1738751-05:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2020-08-07T05:59:18.1738782-05:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2020-08-07T05:59:18.1738815-05:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2020-08-07T05:59:18.1738980-05:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2020-08-07T05:59:18.1739276-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-08-07T05:59:18.1773876-05:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 0,0269593 seconds
+2020-08-07T05:59:18.1784909-05:00:Thread#0: Test #5/0 is started on thread #0
+2020-08-07T05:59:18.1822039-05:00:2020-08-07T05:59:18.1815973-05:00:Thread#0:B:Dado que se recorro a una velocidad media de 15 KM/HORA
+2020-08-07T05:59:18.1873775-05:00:2020-08-07T05:59:18.1869059-05:00:Thread#0:T:done: RutaSteps.DadoQueSeRecorroAUnaVelocidadMediaDeKMHORA(15) (0,0s)
+2020-08-07T05:59:18.1880945-05:00:2020-08-07T05:59:18.1877526-05:00:Thread#0:B:Y recorro varios puntos  de 25 KM
+2020-08-07T05:59:18.2288254-05:00:2020-08-07T05:59:18.2283592-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-07T05:59:18.2295634-05:00:2020-08-07T05:59:18.2291523-05:00:Thread#0:T:        [Given(@"recorro varios puntos  de (.*) KM")]
+2020-08-07T05:59:18.2300604-05:00:2020-08-07T05:59:18.2298030-05:00:Thread#0:T:        public void DadoRecorroVariosPuntosDeKM(int p0)
+2020-08-07T05:59:18.2304736-05:00:2020-08-07T05:59:18.2302340-05:00:Thread#0:T:        {
+2020-08-07T05:59:18.2309240-05:00:2020-08-07T05:59:18.2306444-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-07T05:59:18.2314100-05:00:2020-08-07T05:59:18.2311651-05:00:Thread#0:T:        }
+2020-08-07T05:59:18.2325926-05:00:2020-08-07T05:59:18.2321769-05:00:Thread#0:B:Entonces mi tiempo seria de 1.66 HORAS
+2020-08-07T05:59:18.2334163-05:00:2020-08-07T05:59:18.2330846-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'RutasSpecFlow:RutaCiclopaseo.Steps.RutaSteps.EntoncesMiTiempoSeriaDeHORAS(Int32, Int32)' should have 1 parameters
+2020-08-07T05:59:18.2353430-05:00:Thread#0:TestItem#5:Scheduler: reschedule tests for testitem #5
+2020-08-07T05:59:18.2359087-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-07T05:59:18.2359226-05:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2020-08-07T05:59:18.2359259-05:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2020-08-07T05:59:18.2359638-05:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-07T05:59:18.2359675-05:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2020-08-07T05:59:18.2359694-05:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2020-08-07T05:59:18.2359717-05:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2020-08-07T05:59:18.2359897-05:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2020-08-07T05:59:18.2359991-05:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2020-08-07T05:59:18.2388794-05:00:Thread#0: Test #5/0 is finished on thread #0 as Failed within 0,0603382 seconds
+2020-08-07T05:59:18.2396776-05:00:Thread#0: Test #5/1 is started on thread #0
+2020-08-07T05:59:18.2406856-05:00:2020-08-07T05:59:18.2402875-05:00:Thread#0:B:Dado que se recorro a una velocidad media de 15 KM/HORA
+2020-08-07T05:59:18.2553200-05:00:2020-08-07T05:59:18.2547251-05:00:Thread#0:T:done: RutaSteps.DadoQueSeRecorroAUnaVelocidadMediaDeKMHORA(15) (0,0s)
+2020-08-07T05:59:18.2559765-05:00:2020-08-07T05:59:18.2556444-05:00:Thread#0:B:Y recorro varios puntos  de 25 KM
+2020-08-07T05:59:18.2591857-05:00:2020-08-07T05:59:18.2587741-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-07T05:59:18.2598164-05:00:2020-08-07T05:59:18.2594733-05:00:Thread#0:T:        [Given(@"recorro varios puntos  de (.*) KM")]
+2020-08-07T05:59:18.2603040-05:00:2020-08-07T05:59:18.2600453-05:00:Thread#0:T:        public void DadoRecorroVariosPuntosDeKM(int p0)
+2020-08-07T05:59:18.2612223-05:00:2020-08-07T05:59:18.2605363-05:00:Thread#0:T:        {
+2020-08-07T05:59:18.2617838-05:00:2020-08-07T05:59:18.2615076-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-07T05:59:18.2623864-05:00:2020-08-07T05:59:18.2619960-05:00:Thread#0:T:        }
+2020-08-07T05:59:18.2633030-05:00:2020-08-07T05:59:18.2629029-05:00:Thread#0:B:Entonces mi tiempo seria de 1.66 HORAS
+2020-08-07T05:59:18.2640532-05:00:2020-08-07T05:59:18.2637419-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'RutasSpecFlow:RutaCiclopaseo.Steps.RutaSteps.EntoncesMiTiempoSeriaDeHORAS(Int32, Int32)' should have 1 parameters
+2020-08-07T05:59:18.2663146-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-07T05:59:18.2663336-05:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2020-08-07T05:59:18.2663366-05:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2020-08-07T05:59:18.2663615-05:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-07T05:59:18.2663651-05:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2020-08-07T05:59:18.2663671-05:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2020-08-07T05:59:18.2663693-05:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2020-08-07T05:59:18.2663849-05:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2020-08-07T05:59:18.2663954-05:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2020-08-07T05:59:18.2689502-05:00:Thread#0: Test #5/1 is finished on thread #0 as Failed within 0,0292276 seconds
+2020-08-07T05:59:18.2698106-05:00:Thread#0: Test #5/2 is started on thread #0
+2020-08-07T05:59:18.2711742-05:00:2020-08-07T05:59:18.2706737-05:00:Thread#0:B:Dado que se recorro a una velocidad media de 15 KM/HORA
+2020-08-07T05:59:18.2745770-05:00:2020-08-07T05:59:18.2740599-05:00:Thread#0:T:done: RutaSteps.DadoQueSeRecorroAUnaVelocidadMediaDeKMHORA(15) (0,0s)
+2020-08-07T05:59:18.2754291-05:00:2020-08-07T05:59:18.2749526-05:00:Thread#0:B:Y recorro varios puntos  de 25 KM
+2020-08-07T05:59:18.2804585-05:00:2020-08-07T05:59:18.2799471-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-07T05:59:18.2810076-05:00:2020-08-07T05:59:18.2807331-05:00:Thread#0:T:        [Given(@"recorro varios puntos  de (.*) KM")]
+2020-08-07T05:59:18.2814785-05:00:2020-08-07T05:59:18.2811972-05:00:Thread#0:T:        public void DadoRecorroVariosPuntosDeKM(int p0)
+2020-08-07T05:59:18.2819118-05:00:2020-08-07T05:59:18.2816449-05:00:Thread#0:T:        {
+2020-08-07T05:59:18.2823309-05:00:2020-08-07T05:59:18.2820749-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-07T05:59:18.2827750-05:00:2020-08-07T05:59:18.2824923-05:00:Thread#0:T:        }
+2020-08-07T05:59:18.2834432-05:00:2020-08-07T05:59:18.2831394-05:00:Thread#0:B:Entonces mi tiempo seria de 1.66 HORAS
+2020-08-07T05:59:18.2841840-05:00:2020-08-07T05:59:18.2838978-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'RutasSpecFlow:RutaCiclopaseo.Steps.RutaSteps.EntoncesMiTiempoSeriaDeHORAS(Int32, Int32)' should have 1 parameters
+2020-08-07T05:59:18.2870490-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-07T05:59:18.2870724-05:00:Thread#:Scheduler: at the end of normal test queue
+2020-08-07T05:59:18.2870756-05:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-08-07T05:59:18.2870785-05:00:Thread#0:Scheduler: No more tests for thread
+2020-08-07T05:59:18.2931410-05:00:Thread#0: Test #5/2 is finished on thread #0 as Failed within 0,0232662 seconds
+2020-08-07T05:59:18.3069429-05:00:2020-08-07T05:59:18.3063902-05:00:Got Deinitialize Signal
+2020-08-07T05:59:18.3156321-05:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-08-07T05:59:18.3156321-05:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2020-08-07T05:59:18.3179680-05:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-08-07T05:59:18.3231027-05:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=es-MX, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-07T05:59:18.3231473-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2020-08-07T05:59:18.3231511-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2020-08-07T05:59:18.3231616-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1'
+2020-08-07T05:59:18.3231679-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2020-08-07T05:59:18.3232751-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2020-08-07T05:59:18.3233611-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Kamz\source\repos\BDD\RutaCiclopaseo\bin\Debug\netcoreapp3.1'
+2020-08-07T05:59:18.3248249-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-07T05:59:18.3248425-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\System.Diagnostics.Process.resources.dll'
+2020-08-07T05:59:18.3249430-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\System.Diagnostics.Process.resources.exe'
+2020-08-07T05:59:18.3250268-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-07T05:59:18.3252899-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-07T05:59:18.3253014-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Diagnostics.Process.resources.dll'
+2020-08-07T05:59:18.3254030-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Diagnostics.Process.resources.exe'
+2020-08-07T05:59:18.3254899-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-07T05:59:18.3257609-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-07T05:59:18.3257720-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\System.Diagnostics.Process.resources.dll'
+2020-08-07T05:59:18.3258689-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\System.Diagnostics.Process.resources.exe'
+2020-08-07T05:59:18.3259722-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-07T05:59:18.3268313-05:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-07T05:59:18.3419975-05:00:Thread#-1:Scheduler: get next test for thread -1
+2020-08-07T05:59:18.3420256-05:00:Thread#:Scheduler: at the end of normal test queue
+2020-08-07T05:59:18.3420296-05:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-08-07T05:59:18.3530393-05:00;Thread#12;Info;test run finished
+2020-08-07T05:59:18.3532955-05:00;Thread#12;Info;publishing test results
+2020-08-07T05:59:18.3535452-05:00;Thread#12;Info;Not publishing results.
+2020-08-07T05:59:18.3536924-05:00;Thread#12;Info;test results published
+2020-08-07T05:59:18.3538132-05:00;Thread#12;Info;generating reports
+2020-08-07T05:59:18.5141164-05:00;Thread#12;Info;Starting external report generation process
+2020-08-07T05:59:22.2368254-05:00;Thread#12;Info;Successfully generated reports.
+2020-08-07T05:59:22.2417172-05:00;Thread#12;Info;Successfully generated reports
+2020-08-07T05:59:22.2553887-05:00:Total: 2 (test executions: 6)
+2020-08-07T05:59:22.2592930-05:00:Succeeded: 0
+2020-08-07T05:59:22.2599276-05:00:Ignored: 0
+2020-08-07T05:59:22.2604598-05:00:Pending: 0
+2020-08-07T05:59:22.2604729-05:00:Skipped: 0
+2020-08-07T05:59:22.2609637-05:00:Failed: 2
+2020-08-07T05:59:22.2716333-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-08-07T05:59:22.2717758-05:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Kamz\source\repos\BDD\TestResults\Unnamed project__2020-08-07T055914.html'
+========== End of log file ==========

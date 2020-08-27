@@ -92,3 +92,5 @@ C:\Users\Kamz\source\repos\Procesos\Matematica.Tests\obj\Debug\netcoreapp3.1\Mat
 C:\Users\Kamz\source\repos\Procesos\Matematica.Tests\obj\Debug\netcoreapp3.1\Matematica.Tests.dll
 C:\Users\Kamz\source\repos\Procesos\Matematica.Tests\obj\Debug\netcoreapp3.1\Matematica.Tests.pdb
 C:\Users\Kamz\source\repos\Procesos\Matematica.Tests\obj\Debug\netcoreapp3.1\Matematica.Tests.genruntimeconfig.cache
+C:\Users\Kamz\source\repos\Procesos\Matematica.Tests\bin\Debug\netcoreapp3.1\Informatica.Negocio.dll
+C:\Users\Kamz\source\repos\Procesos\Matematica.Tests\bin\Debug\netcoreapp3.1\Informatica.Negocio.pdb
